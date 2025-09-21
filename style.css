@@ -1,3 +1,42 @@
 body {
   font-family: "PT Sans", sans-serif;
+  justify-content: space-evenly;
+}
+/* nav bar// */
+.bg-navbar {
+  background-color: #423e37;
+}
+.navbar a {
+  color: #fff;
+}
+.navbar a:hover {
+  color: #fff;
+}
+.active {
+  color: #fff !important;
+  border-bottom: 2px solid #fff;
+}
+.nav-link:hover {
+  border-bottom: 2px solid #fff;
+}
+
+/* slider// */
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+/* our mentors// */
+#our-mentors h1 {
+  border-bottom: 1px solid rgb(224, 218, 218);
+}
+.tr-1 p {
+  word-spacing: 20px;
+}
+
+/* stu-reviews// */
+#stu-reviews h1 {
+  border-bottom: 1px solid rgb(224, 218, 218);
+}
+.rate {
+  text-align: center;
 }
