@@ -7,11 +7,12 @@ body {
 .bg-navbar {
   background-color: #423e37;
 }
-nav h1 {
+
+.navbar-brand a {
   color: #fff;
+
   font-size: 1.5rem;
 }
-.navbar-brand,
 .navbar a {
   color: #fff;
 }
